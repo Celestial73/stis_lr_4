@@ -1,0 +1,8 @@
+{"type":"ClientMessage","payload":"Не работает VPN после обновления Windows","timestamp":"2026-05-31T09:00:00Z"}
+{"type":"Breakdown","payload":"Сервис vpn-gateway: connection timeout","timestamp":"2026-05-31T09:00:15Z"}
+{"type":"TicketCreated","payload":"TKT-2026-1842 | приоритет: высокий","timestamp":"2026-05-31T09:00:30Z"}
+{"type":"ExpertReply","payload":"Проверьте протокол IKEv2 и перезапустите адаптер","timestamp":"2026-05-31T09:15:00Z"}
+{"type":"ClientMessage","payload":"Спасибо, перезапуск помог","timestamp":"2026-05-31T09:45:00Z"}
+{"type":"Breakdown","payload":"Мониторинг: повторный timeout на шлюзе","timestamp":"2026-05-31T10:00:00Z"}
+{"type":"TicketCreated","payload":"TKT-2026-1851 | эскалация L2","timestamp":"2026-05-31T10:00:20Z"}
+{"type":"ExpertReply","payload":"Открыт инцидент на стороне провайдера, ETA 2 ч","timestamp":"2026-05-31T10:30:00Z"}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Сообщение клиента",
+    "windowSize": 1,
+    "patternType": "LastEventEquals",
+    "patternValue": "ClientMessage",
+    "reactionText": "Направить эксперту",
+    "priority": 100
+  },
+  {
+    "name": "Создано обращение",
+    "windowSize": 1,
+    "patternType": "LastEventEquals",
+    "patternValue": "TicketCreated",
+    "reactionText": "Направить инженеру",
+    "priority": 100
+  },
+  {
+    "name": "Ответ эксперта",
+    "windowSize": 1,
+    "patternType": "LastEventEquals",
+    "patternValue": "ExpertReply",
+    "reactionText": "Направить клиенту",
+    "priority": 100
+  },
+  {
+    "name": "Поломка",
+    "windowSize": 1,
+    "patternType": "LastEventEquals",
+    "patternValue": "Breakdown",
+    "reactionText": "Создать обращение",
+    "priority": 100
+  },
+  {
+    "name": "Прочее",
+    "windowSize": 1,
+    "patternType": "Always",
+    "patternValue": "",
+    "reactionText": "Записать в журнал",
+    "priority": 1
+  }
+]

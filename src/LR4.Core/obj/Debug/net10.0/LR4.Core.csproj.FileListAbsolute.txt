@@ -1,0 +1,11 @@
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.AssemblyInfoInputs.cache
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.AssemblyInfo.cs
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.csproj.CoreCompileInputs.cache
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\bin\Debug\net10.0\LR4.Core.deps.json
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\bin\Debug\net10.0\LR4.Core.dll
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\bin\Debug\net10.0\LR4.Core.pdb
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.dll
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\refint\LR4.Core.dll
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\LR4.Core.pdb
+C:\ROOT\MEPHI\STIS\LR4\src\LR4.Core\obj\Debug\net10.0\ref\LR4.Core.dll
